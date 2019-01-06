@@ -1,0 +1,15 @@
+{
+  "name": "mini.fat-arrow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.12.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "eslint . && mocha"
+  },
+  "author": "Carlos Castro <>"
+}
