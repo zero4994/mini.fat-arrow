@@ -1,7 +1,7 @@
 const getEmpty = () => new Object();
 
 // multi-line
-const fall = (time) => {
+const fall = time => {
   let pos = 0;
   let velocity = 0;
   let g = 9.8;
